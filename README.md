@@ -17,8 +17,8 @@ Inserting the sequence `[1, 5, 9, 2, 4, 10, 6, 3, 8]` into an empty BST:
 ## Task 2: 
 If a well-balanced binary search tree contains 1,000 values, what is the maximum number of steps it would take to search for a value within it?
 ```text
-In a well-balanced BST the search time complexity is O(log n). log_2(1000)=approx 9.96 so the max number of
-steps it would take would be 10.
+In a well-balanced BST the search time complexity is O(log n). log_2(1000)=approx 9.96 so the
+max number of steps it would take would be 10.
 ```
 ## Task 3: 
 Write an algorithm that finds the greatest value within a binary search tree.
